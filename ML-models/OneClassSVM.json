@@ -1,0 +1,5 @@
+{
+    "gamma": "auto",
+    "kernel": "rbf",
+    "nu": 0.1
+}

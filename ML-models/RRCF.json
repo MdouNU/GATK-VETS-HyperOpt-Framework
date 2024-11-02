@@ -1,0 +1,8 @@
+{
+    "ndim": 1,
+    "prob_pick_col_by_range": 1,
+    "sample_size": 256,
+    "max_depth": None,
+    "ntrees": 100,
+    "missing_action": "fail"
+}

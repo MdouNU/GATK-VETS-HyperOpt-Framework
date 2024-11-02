@@ -1,0 +1,10 @@
+{
+    "ndim": 2,
+    "ntrees": 100,
+    "missing_action": "fail",
+    "sample_size": 256,
+    "max_depth": 8,
+    "coefs": "uniform",
+    "standardize_data": false
+}
+

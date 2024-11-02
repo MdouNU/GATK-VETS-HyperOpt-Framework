@@ -1,0 +1,11 @@
+{
+    "ndim": 2,
+    "sample_size": 256,
+    "max_depth": 8,
+    "ntrees": 100,
+    "missing_action": "fail",
+    "coefs": "normal",
+    "ntry": 10,
+    "prob_pick_avg_gain": 1,
+    "penalize_range": True,
+}

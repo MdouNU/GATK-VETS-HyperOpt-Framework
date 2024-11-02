@@ -1,0 +1,11 @@
+{
+    "ndim": 2,
+    "sample_size": 256,
+    "max_depth": null,
+    "ntrees": 200,
+    "missing_action": "fail",
+    "coefs": "normal",
+    "ntry": 10,
+    "prob_pick_pooled_gain": 1
+    
+}

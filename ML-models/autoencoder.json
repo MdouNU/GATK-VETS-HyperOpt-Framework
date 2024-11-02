@@ -1,0 +1,11 @@
+{
+    "encoding_dim": 32,
+    "epochs": 100,
+    "batch_size": 256,
+    "learning_rate": 0.001,
+    "activation": "relu",
+    "output_activation": "sigmoid",
+    "loss": "mean_squared_error",
+    "optimizer": "adam"
+}
+
